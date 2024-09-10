@@ -18,7 +18,7 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 
 [![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)](https://quyanh.xyz)
 
-## Code Works (private repositories included)
+## Projects (private repositories included)
 ### General
 - Integration of MongoDB with applications.
 - Proficiency in working with APIs.
