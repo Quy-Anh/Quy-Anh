@@ -32,7 +32,7 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 A [website](https://quyanh.xyz/) designed to showcase my work in an aesthetically pleasing and engaging way, with minimalism as a central concept to ensure clarity and efficiency.
 - Features
   - Works showcase
-  - Exclusive member space
+  - Exclusive member space (with private features)
 
 ### 2019 — Discord.JS Bot "Exclusive"
 A Discord bot designed for a membership-only server, offering access to exclusive features and monitoring tools. The bot integrates databases and APIs for enhanced functionality and is created using Discord.JS library v14.
