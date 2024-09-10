@@ -19,6 +19,16 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 [![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)]()
 
 ## Code Works
+### General
+- Integration of MongoDB with applications.
+- Proficiency in working with APIs.
+- Experience in hosting applications on platforms like Heroku and DigitalOcean.
+- Expertise in domain configuration and DNS management.
+- Development of threaded web applications similar to Reddit or Twitter.
+- Creation of custom login and profile pages.
+- Implementation of wishlist features on web pages.
+- Integration of Shopify with web applications.
+
 ### 2019 — Discord.JS Bot "Exclusive"
 A Discord bot designed for a membership-only server, offering access to exclusive features and monitoring tools. The bot integrates databases and APIs for enhanced functionality and is created using Discord.JS library v14.
 - [Repository display](https://quyanh.xyz/work/development.html)
@@ -26,7 +36,8 @@ A Discord bot designed for a membership-only server, offering access to exclusiv
 - [Implementation](https://discord.gg/fVpw5sp)
 
 ### 2024 — Portfolio Website
+A website designed to showcase my work in an aesthetically pleasing and engaging way, with minimalism as a central concept to ensure clarity and efficiency.
 - [Direct link](https://quyanh.xyz/)
 - Features
-  - Member space with unique & exclusive  features
   - Works showcase
+  - Exclusive member space
