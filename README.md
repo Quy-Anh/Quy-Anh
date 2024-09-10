@@ -18,7 +18,7 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 
 [![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)]()
 
-## Works
+## Code Works
 ### 2019 — Discord.JS Bot "Exclusive"
 A Discord bot designed for a membership-only server, offering access to exclusive features and monitoring tools. The bot integrates databases and APIs for enhanced functionality and is created using Discord.JS library v14.
 - [Repository display](https://quyanh.xyz/work/development.html)
