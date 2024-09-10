@@ -1,7 +1,6 @@
 [![Banner](/assets/banner.png)](https://quyanh.xyz/)
 
-[![Website](https://badgen.net/badge/WEBSITE/quyanh.xyz?color=none)](https://quyanh.xyz)
-[![Discord](https://badgen.net/discord/members/fVpw5sp?icon=discord&color=none)](https://discord.gg/fVpw5sp)
+[![Website](https://badgen.net/badge/WEBSITE/quyanh.xyz?color=purple)](https://quyanh.xyz)
 
 ## Introduction
 Welcome to my GitHub page. I am currently a computer science student with a strong passion for both technical precision and artistic expression. My work integrates code and creativity, focusing on efficiency to ensure clarity and effectiveness in every project.
