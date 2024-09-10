@@ -18,7 +18,7 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 
 [![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)]()
 
-## Code Works
+## Code Works (private repositories included)
 ### General
 - Integration of MongoDB with applications.
 - Proficiency in working with APIs.
@@ -29,15 +29,15 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 - Implementation of wishlist features on web pages.
 - Integration of Shopify with web applications.
 
-### 2019 — Discord.JS Bot "Exclusive"
-A Discord bot designed for a membership-only server, offering access to exclusive features and monitoring tools. The bot integrates databases and APIs for enhanced functionality and is created using Discord.JS library v14.
-- [Repository display](https://quyanh.xyz/work/development.html)
-- [Acquisition page](https://shoppy.gg/product/RxjfGyL)
-- [Implementation](https://discord.gg/fVpw5sp)
-
 ### 2024 — Portfolio Website
 A website designed to showcase my work in an aesthetically pleasing and engaging way, with minimalism as a central concept to ensure clarity and efficiency.
 - [Direct link](https://quyanh.xyz/)
 - Features
   - Works showcase
   - Exclusive member space
+
+### 2019 — Discord.JS Bot "Exclusive"
+A Discord bot designed for a membership-only server, offering access to exclusive features and monitoring tools. The bot integrates databases and APIs for enhanced functionality and is created using Discord.JS library v14.
+- [Repository display](https://quyanh.xyz/work/development.html)
+- [Acquisition page](https://shoppy.gg/product/RxjfGyL)
+- [Implementation](https://discord.gg/fVpw5sp)
