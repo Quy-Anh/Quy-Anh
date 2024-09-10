@@ -28,7 +28,7 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 - Implementation of wishlist features on web pages.
 - Integration of Shopify with web applications.
 
-### 2024 — [Portfolio](https://quyanh.xyz/)
+### 2024 — Portfolio [Website](https://quyanh.xyz/)
 A website designed to showcase my work in an aesthetically pleasing and engaging way, with minimalism as a central concept to ensure clarity and efficiency.
 - Features
   - Works showcase
