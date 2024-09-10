@@ -12,11 +12,11 @@ Feel free to explore my repositories and [connect](mailto:info@quyanh.xyz) with 
 
 ## Proficiencies
 
-[![LANGUAGES](https://skillicons.dev/icons?i=cs,html,css,js,php,java,py&perline=7)]()
+[![LANGUAGES](https://skillicons.dev/icons?i=cs,html,css,js,php,java,py&perline=7)](https://quyanh.xyz)
 
-[![TOOLS](https://skillicons.dev/icons?i=mongodb,git,heroku,bots,discord,discordjs,nodejs,express)]()
+[![TOOLS](https://skillicons.dev/icons?i=mongodb,git,heroku,bots,discord,discordjs,nodejs,express)](https://quyanh.xyz)
 
-[![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)]()
+[![SOFTWARE](https://skillicons.dev/icons?i=ae,pr,ps,ai,xd,blender,obsidian,visualstudio,vscode)](https://quyanh.xyz)
 
 ## Code Works (private repositories included)
 ### General
