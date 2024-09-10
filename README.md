@@ -1,6 +1,6 @@
 [![Banner](/assets/banner.png)](https://quyanh.xyz/)
 
-[![Website](https://badgen.net/badge/WEBSITE/quyanh.xyz?color=none)](https://discord.gg/fVpw5sp)
+[![Website](https://badgen.net/badge/WEBSITE/quyanh.xyz?color=none)](https://quyanh.xyz)
 [![Discord](https://badgen.net/discord/members/fVpw5sp?icon=discord&color=none)](https://discord.gg/fVpw5sp)
 
 ## Introduction
